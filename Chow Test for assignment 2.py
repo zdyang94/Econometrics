@@ -72,8 +72,6 @@ filt=list(map(judgedate,data['Days']))
 data['Filt']=filt
 
 
-# In[48]:
-
 
 
 begofmonth=data[data.Filt==1]
